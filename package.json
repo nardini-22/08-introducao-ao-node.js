@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "prompt": "^1.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
